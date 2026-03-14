@@ -26,6 +26,29 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/KADAVZU/VanillaGuard-UI">
+        <img src="https://raw.githubusercontent.com/KADAVZU/VanillaGuard-UI/main/social-preview-image.png" alt="Vanilla Guard" style="border-radius:10px;">
+      </a>
+      <br />
+      <b>Vanilla Guard JS</b> - Security & UI implementation.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/KADAVZU/Campus">
+        <img src="https://tu-otra-imagen-url.png" alt="Project 2" style="border-radius:10px;">
+      </a>
+      <br />
+      <b>Campus Project</b> - Backend & Data Management.
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🔗 Connect with the Void
 <p align="left">
   <a href="https://linkedin.com/in/kadavzu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
