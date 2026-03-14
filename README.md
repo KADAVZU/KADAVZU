@@ -12,8 +12,19 @@
 ---
 
 ### 🛠 Technologies
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,inkscape,gimp,dv,js,python,postgres,html,css,linux&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,gimp" alt="Creative Design" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="48" height="48" style="vertical-align: top; margin-top: 2px;" alt="Inkscape" />
+  <img src="https://img.icons8.com/color/48/davinci-resolve.png" width="48" height="48" style="vertical-align: top;" alt="DaVinci Resolve" />
+  
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=git,github,discord,linkedin" alt="Workflow & Social" />
+
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,mysql,postgres,mongodb,linux" alt="Development & DBs" />
 </p>
 
 ---
