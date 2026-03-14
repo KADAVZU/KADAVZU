@@ -32,7 +32,7 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/KADAVZU/VanillaGuard-UI">
-        <img src="https://raw.githubusercontent.com/KADAVZU/VanillaGuard-UI/main/social-preview.png" alt="Vanilla Guard" style="border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/KADAVZU/VanillaGuard-UI/main/vanilla guard js.png" alt="Vanilla Guard" style="border-radius:10px;">
       </a>
       <br />
       <b>Vanilla Guard JS</b> - Security & UI implementation.
