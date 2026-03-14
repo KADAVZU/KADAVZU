@@ -31,26 +31,13 @@
 <table border="0">
   <tr>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/KADAVZU/KADAVZU/main/vanilla guard js.png" style="border-radius: 8px; width: 100%;">
+      <img src="https://raw.githubusercontent.com/KADAVZU/VanillaGuard-UI/main/vanilla%20guard%20js.png" style="border-radius: 8px; width: 100%;">
     </td>
     <td width="60%" valign="top">
       <a href="https://github.com/KADAVZU/VanillaGuard-UI"><b>Vanilla Guard JS</b></a><br>
       <font size="2" color="#8b949e">
         Disruptive security interface designed for high-performance JS environments. 
         Focuses on clean UI and robust authentication logic.
-      </font>
-    </td>
-  </tr>
-  <tr><td colspan="2" height="10"></td></tr>
-  <tr>
-    <td width="40%">
-      <img src="banner.png" style="border-radius: 8px; width: 100%;">
-    </td>
-    <td width="60%" valign="top">
-      <a href="https://github.com/KADAVZU/Campus"><b>Campus Project</b></a><br>
-      <font size="2" color="#8b949e">
-        Advanced backend architecture and student data management system. 
-        Engineered for scalability and data integrity.
       </font>
     </td>
   </tr>
