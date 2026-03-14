@@ -14,7 +14,8 @@
 ### 🛠 Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,gimp" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="48" height="48" style="vertical-align:top; margin: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="48" height="48" style="vertical-align:top; margin: 4px;" />
   <img src="https://img.icons8.com/color/48/davinci-resolve.png" width="48" height="48" style="vertical-align:top; margin: 4px;" />
   <br>
