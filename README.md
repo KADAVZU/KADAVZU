@@ -32,17 +32,10 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/KADAVZU/VanillaGuard-UI">
-        <img src="https://raw.githubusercontent.com/KADAVZU/VanillaGuard-UI/main/social-preview-image.png" alt="Vanilla Guard" style="border-radius:10px;">
+        <img src="https://raw.githubusercontent.com/KADAVZU/VanillaGuard-UI/main/social-preview.png" alt="Vanilla Guard" style="border-radius:10px;">
       </a>
       <br />
       <b>Vanilla Guard JS</b> - Security & UI implementation.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/KADAVZU/Campus">
-        <img src="https://tu-otra-imagen-url.png" alt="Project 2" style="border-radius:10px;">
-      </a>
-      <br />
-      <b>Campus Project</b> - Backend & Data Management.
     </td>
   </tr>
 </table>
