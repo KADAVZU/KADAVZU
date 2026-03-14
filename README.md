@@ -13,7 +13,7 @@
 
 ### 🛠 Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,postgres,html,css,figma,ps,ai,linux&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,inkscape,gimp,dv,js,python,postgres,html,css,linux&theme=dark" alt="Tech Stack">
 </p>
 
 ---
