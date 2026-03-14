@@ -35,10 +35,47 @@
     </td>
     <td width="60%" valign="top">
       <a href="https://github.com/KADAVZU/VanillaGuard-UI"><b>Vanilla Guard JS</b></a><br>
-      <font size="2" color="#8b949e">
-        Disruptive security interface designed for high-performance JS environments. 
-        Focuses on clean UI and robust authentication logic.
-      </font>
+      <font size="2" color="#8b949e">Interfaz de seguridad disruptiva para entornos JS. Enfoque en lógica de autenticación robusta y UI minimalista.</font>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="10"></td></tr>
+  <tr>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/KADAVZU/spaceX/main/spacex.png" style="border-radius: 8px; width: 100%;">
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://github.com/KADAVZU/spaceX"><b>SpaceX Launch Tracker</b></a><br>
+      <font size="2" color="#8b949e">Visualizador de lanzamientos utilizando la API oficial de SpaceX. Interfaz dinámica y responsive.</font>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="10"></td></tr>
+  <tr>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/KADAVZU/javascriptAPIs/main/apis.png" style="border-radius: 8px; width: 100%;">
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://github.com/KADAVZU/javascriptAPIs"><b>JavaScript API Hub</b></a><br>
+      <font size="2" color="#8b949e">Repositorio de implementación y consumo de diversas APIs modernas con funciones asíncronas.</font>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="10"></td></tr>
+  <tr>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/KADAVZU/virtualWallet/main/wallet.png" style="border-radius: 8px; width: 100%;">
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://github.com/KADAVZU/virtualWallet"><b>Virtual Wallet</b></a><br>
+      <font size="2" color="#8b949e">Sistema de gestión financiera con diseño adaptativo y control de transacciones en tiempo real.</font>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="10"></td></tr>
+  <tr>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/KADAVZU/ecommerCampusM1/main/ecommers.png" style="border-radius: 8px; width: 100%;">
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://github.com/KADAVZU/ecommerCampusM1"><b>Ecommerce M1</b></a><br>
+      <font size="2" color="#8b949e">Plataforma de comercio electrónico diseñada para alto rendimiento móvil y experiencia de usuario fluida.</font>
     </td>
   </tr>
 </table>
