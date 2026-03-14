@@ -14,17 +14,13 @@
 ### 🛠 Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,gimp" alt="Creative Design" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="48" height="48" style="vertical-align: top; margin-top: 2px;" alt="Inkscape" />
-  <img src="https://img.icons8.com/color/48/davinci-resolve.png" width="48" height="48" style="vertical-align: top;" alt="DaVinci Resolve" />
-  
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,gimp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="48" height="48" style="vertical-align:top; margin: 4px;" />
+  <img src="https://img.icons8.com/color/48/davinci-resolve.png" width="48" height="48" style="vertical-align:top; margin: 4px;" />
   <br>
-
-  <img src="https://skillicons.dev/icons?i=git,github,discord,linkedin" alt="Workflow & Social" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,discord,linkedin" />
   <br>
-
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,mysql,postgres,mongodb,linux" alt="Development & DBs" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,mysql,postgres,mongodb,linux" />
 </p>
 
 ---
