@@ -28,6 +28,8 @@
 
 ### 🚀 Featured Projects
 
+### 🚀 Featured Projects
+
 <table border="0">
   <tr>
     <td width="40%">
@@ -41,11 +43,21 @@
   <tr><td colspan="2" height="10"></td></tr>
   <tr>
     <td width="40%">
+      <img src="https://raw.githubusercontent.com/KADAVZU/proyectoWeb/main/responsiveweb.png" style="border-radius: 8px; width: 100%;">
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://github.com/KADAVZU/proyectoWeb"><b>Modern Web Project</b></a><br>
+      <font size="2" color="#8b949e">Desarrollo web con enfoque "Mobile First" y arquitectura CSS avanzada para una respuesta fluida en cualquier dispositivo.</font>
+    </td>
+  </tr>
+  <tr><td colspan="2" height="10"></td></tr>
+  <tr>
+    <td width="40%">
       <img src="https://raw.githubusercontent.com/KADAVZU/spaceX/main/spacex.png" style="border-radius: 8px; width: 100%;">
     </td>
     <td width="60%" valign="top">
       <a href="https://github.com/KADAVZU/spaceX"><b>SpaceX Launch Tracker</b></a><br>
-      <font size="2" color="#8b949e">Visualizador de lanzamientos utilizando la API oficial de SpaceX. Interfaz dinámica y responsive.</font>
+      <font size="2" color="#8b949e">Visualizador de lanzamientos utilizando la API oficial de SpaceX. Interfaz dinámica y diseño inspirado en el espacio.</font>
     </td>
   </tr>
   <tr><td colspan="2" height="10"></td></tr>
@@ -55,7 +67,7 @@
     </td>
     <td width="60%" valign="top">
       <a href="https://github.com/KADAVZU/javascriptAPIs"><b>JavaScript API Hub</b></a><br>
-      <font size="2" color="#8b949e">Repositorio de implementación y consumo de diversas APIs modernas con funciones asíncronas.</font>
+      <font size="2" color="#8b949e">Implementación técnica de consumo de datos asíncronos y manejo de estados en aplicaciones modernas.</font>
     </td>
   </tr>
   <tr><td colspan="2" height="10"></td></tr>
@@ -65,7 +77,7 @@
     </td>
     <td width="60%" valign="top">
       <a href="https://github.com/KADAVZU/virtualWallet"><b>Virtual Wallet</b></a><br>
-      <font size="2" color="#8b949e">Sistema de gestión financiera con diseño adaptativo y control de transacciones en tiempo real.</font>
+      <font size="2" color="#8b949e">Gestión financiera personal con una UI limpia y control de transacciones optimizado.</font>
     </td>
   </tr>
   <tr><td colspan="2" height="10"></td></tr>
@@ -74,8 +86,8 @@
       <img src="https://raw.githubusercontent.com/KADAVZU/ecommerCampusM1/main/ecommers.png" style="border-radius: 8px; width: 100%;">
     </td>
     <td width="60%" valign="top">
-      <a href="https://github.com/KADAVZU/ecommerCampusM1"><b>Ecommerce M1</b></a><br>
-      <font size="2" color="#8b949e">Plataforma de comercio electrónico diseñada para alto rendimiento móvil y experiencia de usuario fluida.</font>
+      <a href="https://github.com/KADAVZU/ecommerCampusM1"><b>Ecommerce Campus M1</b></a><br>
+      <font size="2" color="#8b949e">Plataforma de ventas optimizada para dispositivos móviles con enfoque en UX y conversión.</font>
     </td>
   </tr>
 </table>
