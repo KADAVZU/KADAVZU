@@ -43,6 +43,15 @@
   <tr><td colspan="2" height="10"></td></tr>
   <tr>
     <td width="40%">
+      <img src="https://raw.githubusercontent.com/KADAVZU/spaceX/main/spacex.png" style="border-radius: 8px; width: 100%;">
+    </td>
+    <td width="60%" valign="top">
+      <a href="https://github.com/KADAVZU/spaceX"><b>SpaceX Launch Tracker</b></a><br>
+      <font size="2" color="#8b949e">Visualizador de lanzamientos utilizando la API oficial de SpaceX. Interfaz dinámica y diseño inspirado en el espacio.</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%">
       <img src="https://raw.githubusercontent.com/KADAVZU/proyectoWeb/main/responsiveweb.png" style="border-radius: 8px; width: 100%;">
     </td>
     <td width="60%" valign="top">
@@ -51,15 +60,6 @@
     </td>
   </tr>
   <tr><td colspan="2" height="10"></td></tr>
-  <tr>
-    <td width="40%">
-      <img src="https://raw.githubusercontent.com/KADAVZU/spaceX/main/spacex.png" style="border-radius: 8px; width: 100%;">
-    </td>
-    <td width="60%" valign="top">
-      <a href="https://github.com/KADAVZU/spaceX"><b>SpaceX Launch Tracker</b></a><br>
-      <font size="2" color="#8b949e">Visualizador de lanzamientos utilizando la API oficial de SpaceX. Interfaz dinámica y diseño inspirado en el espacio.</font>
-    </td>
-  </tr>
   <tr><td colspan="2" height="10"></td></tr>
   <tr>
     <td width="40%">
