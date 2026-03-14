@@ -31,7 +31,7 @@
 <table border="0">
   <tr>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/KADAVZU/KADAVZU/main/image_336a18.png" style="border-radius: 8px; width: 100%;">
+      <img src="https://raw.githubusercontent.com/KADAVZU/KADAVZU/main/vanilla guard js.png" style="border-radius: 8px; width: 100%;">
     </td>
     <td width="60%" valign="top">
       <a href="https://github.com/KADAVZU/VanillaGuard-UI"><b>Vanilla Guard JS</b></a><br>
